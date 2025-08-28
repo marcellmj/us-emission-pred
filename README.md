@@ -15,23 +15,23 @@ This project is divided into three main parts:
 
 ### Data Sources:
 
-1. United States Environmental Protection Agency (EPA), “Clean Air Markets Program Data (CAMPD),” Apr. 2025, Washington, DC: Office of Atmospheric Protection, Clean Air and Power Division. [Online] Available: [https://campd.epa.gov](https://campd.epa.gov) [Accessed on: 2025-05-30]
+United States Environmental Protection Agency (EPA), “Clean Air Markets Program Data (CAMPD),” Apr. 2025, Washington, DC: Office of Atmospheric Protection, Clean Air and Power Division. [Online] Available: [https://campd.epa.gov](https://campd.epa.gov) [Accessed on: 2025-05-30]
 
-3. United States Energy Information Administration (EIA), “Form EIA-860 detailed data with previous form data (EIA-860A/860B),” Jun. 2025. [Online] Available: [https://www.eia.gov/electricity/data/eia860/](https://www.eia.gov/electricity/data/eia860/)  [Accessed on: 2025-07-01].
+United States Energy Information Administration (EIA), “Form EIA-860 detailed data with previous form data (EIA-860A/860B),” Jun. 2025. [Online] Available: [https://www.eia.gov/electricity/data/eia860/](https://www.eia.gov/electricity/data/eia860/)  [Accessed on: 2025-07-01].
   
-4. Iowa State University — Iowa Environmental Mesonet, “Automated Surface Observing System (ASOS) Network,” 2025. [Online] Available: [https://mesonet.agron.iastate.edu/ASOS/](https://mesonet.agron.iastate.edu/ASOS/) [Accessed on: 2025-06-26]
+Iowa State University — Iowa Environmental Mesonet, “Automated Surface Observing System (ASOS) Network,” 2025. [Online] Available: [https://mesonet.agron.iastate.edu/ASOS/](https://mesonet.agron.iastate.edu/ASOS/) [Accessed on: 2025-06-26]
 
 
 ### Supplementary Information:
 Provides some additional information in the form of official guides about the hourly emissions data provided by the EPA's CAMPD and its regulatory background.
 
-- The [CAMPD Glossary](https://campd.epa.gov/help-support/glossary) provides definitions and example values of the data supplied by CAMPD.
+- The [CAMPD Glossary](https://campd.epa.gov/help-support/glossary) provides definitions and example values of the data supplied by CAMPD [1].
 
-- The [Plain English Guide to the Part 75 Rule](https://www.epa.gov/power-sector/emissions-monitoring-and-reporting) offers a simplified overview of 40 CFR Part 75. While it is not a substitute for the full regulatory text, it serves as a helpful resource for general understanding.
+- The [Plain English Guide to the Part 75 Rule](https://www.epa.gov/power-sector/emissions-monitoring-and-reporting) offers a simplified overview of 40 CFR Part 75. While it is not a substitute for the full regulatory text, it serves as a helpful resource for general understanding [2].
 
 **Sources:**  
 
-United States Environmental Protection Agency (EPA), "Glossary — Clean Air Markets Program Data (CAMPD)", Apr. 2025. [Online] Available: [https://campd.epa.gov/help-support/glossary](https://campd.epa.gov/help-support/glossary) [Accessed: 2025-08-23]
+[1] United States Environmental Protection Agency (EPA), "Glossary — Clean Air Markets Program Data (CAMPD)", Apr. 2025. [Online] Available: [https://campd.epa.gov/help-support/glossary](https://campd.epa.gov/help-support/glossary) [Accessed: 2025-08-23]
 
-United States Environmental Protection Agency (EPA), "Emissions Monitoring and Reporting — Plain English Guide to the Part 75 Rule", Jun. 2009. [Online] Available: [https://www.epa.gov/power-sector/emissions-monitoring-and-reporting](https://www.epa.gov/power-sector/emissions-monitoring-and-reporting) [Accessed: 2025-08-23]
+[2] United States Environmental Protection Agency (EPA), "Emissions Monitoring and Reporting — Plain English Guide to the Part 75 Rule", Jun. 2009. [Online] Available: [https://www.epa.gov/power-sector/emissions-monitoring-and-reporting](https://www.epa.gov/power-sector/emissions-monitoring-and-reporting) [Accessed: 2025-08-23]
 
