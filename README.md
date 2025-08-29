@@ -13,6 +13,7 @@ This project is divided into three main parts:
 
 [Additional_Visualizations.ipynb](/Additional_Visualizations.ipynb) contains the code for three additional visualizations that were used in the paper or presentation.
 
+---
 ### Data Sources:
 
 United States Environmental Protection Agency (EPA), “Clean Air Markets Program Data (CAMPD),” Apr. 2025, Washington, DC: Office of Atmospheric Protection, Clean Air and Power Division. [Online] Available: [https://campd.epa.gov](https://campd.epa.gov) [Accessed on: 2025-05-30]
@@ -21,7 +22,7 @@ United States Energy Information Administration (EIA), “Form EIA-860 detailed 
   
 Iowa State University — Iowa Environmental Mesonet, “Automated Surface Observing System (ASOS) Network,” 2025. [Online] Available: [https://mesonet.agron.iastate.edu/ASOS/](https://mesonet.agron.iastate.edu/ASOS/) [Accessed on: 2025-06-26]
 
-
+---
 ### Supplementary Information:
 Provides some additional information in the form of official guides about the hourly emissions data provided by the EPA's CAMPD and its regulatory background.
 
