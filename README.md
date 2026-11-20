@@ -1,5 +1,14 @@
 # Bachelor Thesis: Machine Learning-Based Feature Importance Analysis of Power Plant Emissions Across U.S. States
 
+Air pollution from power plants is a major environmental concern, with emissions of CO2, NOx,
+and SO2 contributing to climate change and air quality issues. While machine learning has shown
+promise in predicting these emissions, the roles of specific features and their interactions within models are not
+well understood, particularly across different regulatory and geographic contexts. This
+thesis applies and compares machine learning and explainable AI techniques to understand how features like fuel type, plant
+technology, heat input, or regulatory frameworks influence emissions across different U.S. states.
+By comparing feature importance across states, the project additionally provides insights into how (and if) these models could be used to identify regional emission drivers and policy effectiveness.
+
+### Repo Structure
 This project is divided into three main parts:
 
 1. [Preliminary Data Processing](/01_Preliminary_Data_Processing/README.md)  
@@ -13,7 +22,8 @@ This project is divided into three main parts:
 
 [Additional_Visualizations.ipynb](/Additional_Visualizations.ipynb) contains the code for three additional visualizations that were used in the paper or presentation.
 
----
+[ba-thesis.pdf](/ba-thesis.pdf) and [presentation.pdf](/presentation.pdf) contain the final thesis and presentation work.
+
 ### Data Sources:
 
 United States Environmental Protection Agency (EPA), “Clean Air Markets Program Data (CAMPD),” Apr. 2025, Washington, DC: Office of Atmospheric Protection, Clean Air and Power Division. [Online] Available: [https://campd.epa.gov](https://campd.epa.gov) [Accessed on: 2025-05-30]
